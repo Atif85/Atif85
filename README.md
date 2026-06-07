@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Atif</h1>
 
-I am a Computer Science student focusing on backend engineering, systems development, and clean software design. I mostly create stuff which i find fun.
+I am a Computer Science student focusing on backend engineering, systems development, and clean software design. I mostly create stuff which i find fun, i also do some game dev in my free time.
 
 ---
 
