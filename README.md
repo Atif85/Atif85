@@ -11,12 +11,16 @@ I am a Computer Science student focusing on backend engineering, systems develop
 * **Technologies:** C#, .NET Core, Avalonia UI (for cross-platform GUI), Spectre.Console (for CLI), Google Drive API.
 
 ####  [BuildNotes](https://github.com/Atif85/buildnotes-mod)
-*An in-game note-taking and build-tracking mod for Fabric Minecraft with over **2,700+ combined downloads**.*
+*An in-game note-taking and build-tracking mod for Fabric Minecraft with over **3000+ combined downloads**.*
 * **Technologies:** Java, Fabric API, Gradle.
 
 #### [MendScript (In Progress)](https://github.com/Atif85/MendScript)
 *A statically-typed, embeddable scripting language designed for low memory overhead.*
 * **Technologies:** C, Lexer, Custom VM, Reference Counting (No GC).
+
+#### [MERN Issue Tracker](https://github.com/Atif85/mern-issue-tracker)
+*A full-stack issue tracking application for managing software bugs and project tasks.*
+* **Technologies:** MongoDB, Express.js, React, Node.js.
 
 ---
 
